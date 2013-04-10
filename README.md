@@ -16,6 +16,6 @@ Installation
 Prerequisites
 -------------
 
-Python 2.7
-Alfredapp and JIRA access (duh)
-OAuth2 lib for python
+* Python 2.7
+* Alfredapp and JIRA access (duh)
+* OAuth2 lib for python
